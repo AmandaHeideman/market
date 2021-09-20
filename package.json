@@ -2,7 +2,7 @@
   "name": "market",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AmandaHeideman/market",
+  "homepage": "https://amandaheideman.github.io/market/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
