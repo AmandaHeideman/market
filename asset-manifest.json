@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/AmandaHeideman/market/static/css/main.36b8e470.chunk.css",
-    "main.js": "/AmandaHeideman/market/static/js/main.3144a511.chunk.js",
-    "main.js.map": "/AmandaHeideman/market/static/js/main.3144a511.chunk.js.map",
-    "runtime-main.js": "/AmandaHeideman/market/static/js/runtime-main.8e190e2b.js",
-    "runtime-main.js.map": "/AmandaHeideman/market/static/js/runtime-main.8e190e2b.js.map",
-    "static/js/2.08ebfcad.chunk.js": "/AmandaHeideman/market/static/js/2.08ebfcad.chunk.js",
-    "static/js/2.08ebfcad.chunk.js.map": "/AmandaHeideman/market/static/js/2.08ebfcad.chunk.js.map",
-    "static/js/3.dbf2d356.chunk.js": "/AmandaHeideman/market/static/js/3.dbf2d356.chunk.js",
-    "static/js/3.dbf2d356.chunk.js.map": "/AmandaHeideman/market/static/js/3.dbf2d356.chunk.js.map",
-    "index.html": "/AmandaHeideman/market/index.html",
-    "static/css/main.36b8e470.chunk.css.map": "/AmandaHeideman/market/static/css/main.36b8e470.chunk.css.map",
-    "static/js/2.08ebfcad.chunk.js.LICENSE.txt": "/AmandaHeideman/market/static/js/2.08ebfcad.chunk.js.LICENSE.txt",
-    "static/media/bg.e68ed96d.png": "/AmandaHeideman/market/static/media/bg.e68ed96d.png"
+    "main.css": "/market/static/css/main.36b8e470.chunk.css",
+    "main.js": "/market/static/js/main.3144a511.chunk.js",
+    "main.js.map": "/market/static/js/main.3144a511.chunk.js.map",
+    "runtime-main.js": "/market/static/js/runtime-main.e5f3e98c.js",
+    "runtime-main.js.map": "/market/static/js/runtime-main.e5f3e98c.js.map",
+    "static/js/2.e6633f45.chunk.js": "/market/static/js/2.e6633f45.chunk.js",
+    "static/js/2.e6633f45.chunk.js.map": "/market/static/js/2.e6633f45.chunk.js.map",
+    "static/js/3.dbf2d356.chunk.js": "/market/static/js/3.dbf2d356.chunk.js",
+    "static/js/3.dbf2d356.chunk.js.map": "/market/static/js/3.dbf2d356.chunk.js.map",
+    "index.html": "/market/index.html",
+    "static/css/main.36b8e470.chunk.css.map": "/market/static/css/main.36b8e470.chunk.css.map",
+    "static/js/2.e6633f45.chunk.js.LICENSE.txt": "/market/static/js/2.e6633f45.chunk.js.LICENSE.txt",
+    "static/media/bg.e68ed96d.png": "/market/static/media/bg.e68ed96d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e190e2b.js",
-    "static/js/2.08ebfcad.chunk.js",
+    "static/js/runtime-main.e5f3e98c.js",
+    "static/js/2.e6633f45.chunk.js",
     "static/css/main.36b8e470.chunk.css",
     "static/js/main.3144a511.chunk.js"
   ]
